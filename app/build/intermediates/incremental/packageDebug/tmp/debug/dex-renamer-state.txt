@@ -1,0 +1,4 @@
+#Sun Jul 14 01:55:33 EDT 2019
+base.0=/Users/admin/Downloads/android-advanced-starter-apps-master/SimpleAccessibility_start/app/build/intermediates/transforms/dexMerger/debug/0
+path.0=classes.dex
+renamed.0=classes.dex

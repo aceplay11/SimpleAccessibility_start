@@ -1,0 +1,7 @@
+#Internal package file, do not edit.
+#Sun Jul 14 01:55:33 EDT 2019
+0.baseType=DIRECTORY
+0.base=/Users/admin/Downloads/android-advanced-starter-apps-master/SimpleAccessibility_start/app/build/intermediates/transforms/dexMerger/debug/0
+0.path=classes.dex
+0.set=DEX
+count=1
